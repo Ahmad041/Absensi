@@ -1,5 +1,3 @@
-Berikut adalah contoh README GitHub yang sudah ditambahkan dengan emoji:
-
 # Sistem Absensi Sederhana 📚
 
 Halo! Selamat datang di repository Sistem Absensi Sederhana! 👋
